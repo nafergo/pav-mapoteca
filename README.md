@@ -1,15 +1,16 @@
+[diretório d-pav](https://nafergo.github.io/archaeoware/)
 
-[I'm an inline-style link](https://nafergo.github.io/archaeoware/)
+[oficina apoio](https://nafergo.github.io/oficina-pav-19.07/)
+
+[mapa viseu arqueosites georef](https://nafergo.github.io/viseuarqueo/)
+
+[oficina apoio](https://nafergo.github.io/oficina-pav-19.07/)
+
+[roteiro cajc](https://nafergo.github.io/roteiros/)
+
+[storymap concept jc](https://nafergo.github.io/josecoelho/)
+
+[ar demo](https://nafergo.github.io/ar-tests/)
 
 
-https://nafergo.github.io/oficina-pav-19.07/
 
-
-
-https://nafergo.github.io/viseuarqueo/
-
-https://nafergo.github.io/roteiros/
-
-https://nafergo.github.io/josecoelho/
-
-https://nafergo.github.io/ar-tests/
