@@ -1,7 +1,6 @@
-# pav-test
 
+[I'm an inline-style link](https://nafergo.github.io/archaeoware/)
 
-https://nafergo.github.io/archaeoware/
 
 https://nafergo.github.io/oficina-pav-19.07/
 
